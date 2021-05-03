@@ -1,5 +1,5 @@
-# 1 vs 1 App (1vs1)
-Technology Comparing Platform
+# CPU Wiki (CPU.wiki)
+CPU Technology Comparing Platform
 Phone Comparison - Top Compared Phones
 Europe's first versatile and smart comparison price, feature comparison site 1vs1 has been around since 2021. More than a million consumers; In addition to electronic product price comparisons, Benchmark provides consumers with information on various purchasing options. Standing out as the most frequently updated phone comparison site worldwide, Kıyasla presents the information on how much the smartphone model the user is looking for is sold in a list. It takes a lot of time to choose from the best mobile phone models designed specifically for long-term use and to examine each model individually. 
  
